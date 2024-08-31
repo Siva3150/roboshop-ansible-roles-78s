@@ -1,10 +1,10 @@
-MONGODB_HOST: mongodb.sivadevops.online # submit your host
-REDIS_HOST: redis.sivadevops.online
-MYSQL_HOST: mysql.sivadevops.online
-RABBITMQ_HOST: rabbitmq.sivadevops.online
-CATALOGUE_HOST: catalogue.sivadevops.online
-USER_HOST: user.sivadevops.online
-CART_HOST: cart.sivadevops.online
-SHIPPING_HOST: shipping.sivadevops.online
-PAYMENT_HOST: payment.sivadevops.online
-DISPATCH_HOST: dispatch.sivadevops.online
+MONGODB_HOST: mongodb.sivadevops.fun # submit your host
+REDIS_HOST: redis.sivadevops.fun
+MYSQL_HOST: mysql.sivadevops.fun
+RABBITMQ_HOST: rabbitmq.sivadevops.fun
+CATALOGUE_HOST: catalogue.sivadevops.fun
+USER_HOST: user.sivadevops.fun
+CART_HOST: cart.sivadevops.fun
+SHIPPING_HOST: shipping.sivadevops.fun
+PAYMENT_HOST: payment.sivadevops.fun
+DISPATCH_HOST: dispatch.sivadevops.fun
